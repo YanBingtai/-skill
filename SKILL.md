@@ -120,3 +120,4 @@ Avoid:
 ## Tailoring
 
 Match gloss density(密度) to the recorded level, with the `B1+` row as the fallback while the profile is unset. If the user requests translations at the end of each paragraph, a separate glossary, no translations, or another format, follow that explicit preference over these defaults. Continue to provide the vocabulary count and difficulty report unless the user asks to remove it.
+<!-- OB-S:0MNj8he2neTfkNp_k3i9ig -->
