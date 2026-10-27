@@ -1,0 +1,4 @@
+interface:
+  display_name: "English with Translations"
+  short_description: "Reply in English, glossing hard words in Chinese"
+  default_prompt: "Use $english-with-translations to answer in English and gloss difficult terms like apple(苹果)."
